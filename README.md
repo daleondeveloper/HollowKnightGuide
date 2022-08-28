@@ -18,13 +18,21 @@ Link to the privacy policy of third-party service providers used by the app
 [Google Play Services](https://policies.google.com/privacy)
 
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+
 [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+
 [Facebook](https://www.facebook.com/about/privacy/update/printable)
+
 [Appodeal](https://appodeal.com/privacy-policy/)
+
 [Unity](https://unity.com/legal/privacy-policy)
+
 [One Signal](https://onesignal.com/privacy_policy)
+
 [AppLovin](https://www.applovin.com/privacy/)
+
 [Vungle](https://vungle.com/privacy/)
+
 [AdColony](https://www.adcolony.com/privacy-policy/)
 
 
@@ -84,13 +92,21 @@ The app does use third-party services that declare their Terms and Conditions.
 Link to Terms and Conditions of third-party service providers used by the app
 
 [Google Play Services](https://policies.google.com/privacy)
+
 [AdMob](https://developers.google.com/admob/terms)
+
 [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+
 [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+
 [Appodeal](https://appodeal.com/terms-of-service/)
+
 [Unity](https://unity.com/legal/terms-of-service)
+
 [One Signal](https://onesignal.com/tos)
+
 [AppLovin](https://www.applovin.com/terms/)
+
 
 You should be aware that there are certain things that FedunetcACorp will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but FedunetcACorp cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
