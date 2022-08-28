@@ -16,6 +16,7 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app
 
 [Google Play Services](https://policies.google.com/privacy)
+
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 [Facebook](https://www.facebook.com/about/privacy/update/printable)
